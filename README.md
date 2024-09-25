@@ -2,7 +2,7 @@
 
 
 
-- Soy odontólogo, padre de familia y homesteader.
+- Soy desarrollador full stack trainee, odontólogo, padre de familia y homesteader.
 - Nací en la ciudad de Punta Arenas pero actualmente vivo en Puerto Montt, Chile.
 - Actualmente me dedico al cuidado de mi familia y mi parcela, y estudio
   desarrollo web fullstack Python Django.
