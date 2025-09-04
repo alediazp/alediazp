@@ -13,5 +13,5 @@
   información.
 - Me pueden contactar por medio de mi correo electrónico
     alexisdiazperez@gmail.com
--LinkedIn https://www.linkedin.com/in/alexisdiazperez/
+- LinkedIn https://www.linkedin.com/in/alexisdiazperez/
 
