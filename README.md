@@ -2,7 +2,7 @@
 
 
 
-- Soy desarrollador full stack trainee, odontólogo, padre de familia y homesteader.
+- Soy desarrollador full stack trainee, especialista en ciberseguridad, odontólogo, padre de familia y homesteader.
 - Nací en la ciudad de Punta Arenas pero actualmente vivo en Puerto Montt, Chile.
 - Actualmente me dedico al cuidado de mi familia y de mi parcela, y al estudio de ciberseguridad
 - Mi formación es universitaria completa con título de Cirujano Dentista
